@@ -12,7 +12,7 @@ So we want to solve this problem, in simple words: We want to build a positive p
 <h2><b>Preview:</b></h2<br><br>
 <img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview2_gif.gif" width = 50%/>
   
-<img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview_gif.gif" width = 50% />
+<img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview_gif.gif" width = 70% />
 <br>
   <h3><b>Here are some screenshots below :</h4></b>
   <h3><b>Homepage :</h3><b><br>
