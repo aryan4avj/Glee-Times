@@ -11,7 +11,7 @@ So we want to solve this problem, in simple words: We want to build a positive p
 <hr>
 <h2><b>Preview:</b></h2<br><br>
   
-<img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview2_gif.gif" width = 20%/>
+<img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview2_gif.gif" width = 20% />
   
 <img src="https://github.com/shivambhatia5432/gleetimes/blob/master/screenshots/preview_gif.gif" width = 40% />
 <br>
